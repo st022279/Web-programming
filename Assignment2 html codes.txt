@@ -1,0 +1,183 @@
+﻿<!DOCTYPE html> 
+<html>
+ <head>
+  <title> Profile page: Dinushika Sanjeewani </title>
+ </head>
+
+<body bgcolor="FFE4E1">
+
+  <table width="100%" height="100%" bgcolor="#FA8072" cellspacing="1"
+     <tr>
+	<td><font color="#006400" face="verdana" size="5">DINUSHIKA SANJEEWANI - Green consultant</font></td>
+      	<td align="right" rowspan="3"><img src ="image\DSC_6857 s.jpg" alt="Profile Picture" width="140" height="160"></td> 		
+     </tr>
+     
+	<tr>
+         <td><font color="#006400" face="verdana" size="4">ABOUT ME</font></td>
+        </tr>
+        
+       <tr>
+       	<td><font color="#FFFFFF" face="verdana" size="2">I am a Sri Lankan student living in Kyoto following my Masters' course at <a href="https://www.kcg.edu"> The Kyoto University of Graduate Studies for Informatics.</a> A well-presented, punctual, self-motivated and confident Green technology graduate who has ability to work quickly and efficiently with good communication and management skills as well as excellent research potential, seeks a suitable graduate entry level position in a reputed institution where her knowledge, skills and work potential can be made use of for the betterment of the world and the country.</font></td>
+       </tr>
+
+  </table>
+
+<audio src="audio\Dream life.mp3"autoplay controls>
+</audio>
+    
+<p><font face="Cursive"> What education qualification/work experience/internships did I have before beginning with KCGI school?</font>. 
+
+<h1> Academic Record </h1>
+  <table bgcolor="#AFEEEE" border="1px" bgcolor="#AFEEEE" cellpadding="8" cellspacing="3">
+   <tr>
+    <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+    <th scope=“col">Year</th>
+    <th scope=“col">Discipline</th>
+    <th scope=“col">Institute</th>
+   </tr>
+    <tr>
+     <td bgcolor="#85F472"> </td>
+     <td>2022 <i>(Following)</i></td>
+     <td>Msc. in Information Technology</td>
+     <td>The Kyoto University of Graduate Studies for Informatics, Japan</td>
+     <td><a href ="https://www.kcg.edu/"><abbr title="https://www.kcg.edu/"><img src ="image\kcgilogo.png" width="150" height="100"></a></td>
+    </tr>
+  <tr>
+   <td bgcolor="#157AFB"> </td>
+   <td>2018</td>
+   <td>Bachelor of the Science of Green Technology </td>
+   <td>University of Ruhuna, Sri Lanka</td>
+   <th><a href ="https://www.ruh.ac.lk/index.php/en/"><abbr title="https://www.ruh.ac.lk/index.php/en/"><img src ="image\university of ruhuna, Srilanka.jpg" width="200" height="110"></th>
+  </tr>
+ </table>
+  
+<h2> Career Summary</h2>
+  <table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+   <tr>
+    <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+    <th scope=“col">Period</th>
+    <th scope=“col">Designation</th>
+    <th scope=“col">Employer</th>
+   </tr>
+     <tr>
+      <td bgcolor="#85F472"> </td>
+      <td>2020(Sep) - 2022(Apr)</td>
+      <td>Development Officer</td>
+      <td>Ministry of public services, provincial councils and local government, Sri Lanka.</td>
+      <td><a href ="https://www.pubad.gov.lk/web/index.php?lang=en"><abbr title="https://www.pubad.gov.lk"><img src ="image\Pub_Ad_Ministry11.png" width="250" height="90"></abbr></a></td>
+     </tr>
+        <tr>
+         <td bgcolor="#157AFB"> </td>
+         <td>2019(Jan) - 2022(Apr)</td>
+         <td>Coordinating Officer</td>
+         <td>Aloe plant Enterprises, Sri Lanka.</td>
+         <td><a href ="https://www.findglocal.com/LK/Moratuwa/105519874656065/Aloe-Plants-Enterprises"><abbr title="https://www.findglocal.com/LK/Moratuwa"><img src ="image\aloeplant.jpg" width="200" height="100"></abbr></a></td>
+       </tr>
+   <tr>
+    <td bgcolor ="#FE5B91"> </td>
+    <td>2019(Jan) - 2020(Nov)</td>
+    <td>Business Development Mnager</td>
+	<td>Allianz Insurance lanka limited, Sri Lanka.</td>
+	<td><a href ="https://www.allianz.com/en/about-us/who-we-are/regions-countries/sri-lanka.html"><abbr title="https://www.allianz.com/"><img src ="image\AZ_Logo_Twitter_438x220px.png" width="200" height="100"></abbr></a></td>
+   </tr>  
+      <tr>
+       <td bgcolor ="#C473D4"> </td>
+       <td>2018(Jan)-2019(Jan)</td>
+       <td>Research Assistant - Internship</td>
+	   <td>Ministry of Primary Industries & Social Empowerment, Sri Lanka</td>
+	   <td><a href ="https://www.devex.com/organizations/ministry-of-primary-industries-and-social-empowerment-sri-lanka-137612"><abbr title="https://www.devex.com/organizations/ministry-of-primary-industries-and-social-empowerment-sri-lanka-137612"><img src ="image\ministry of pi.jpg" width="250" height="100"></abbr></a></td>
+      </tr>  
+	</table>
+
+<h3>Certifications</h3>
+      <table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+         <tr>
+          <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+          <th scope=“col">Year</th>
+          <th scope=“col">Certification</th>
+          <th scope=“col">Awarded By</th>
+         </tr>
+	<tr>
+      <td bgcolor="#85F472"> </td>
+      <td>2014</td>
+      <td>Extension course in English</td>   
+      <td>University of Peradeniya, Sri LLanka.</td>
+      <td><a href ="https://www.pdn.ac.lk/"><abbr title="https://www.pdn.ac.lk/"><img src ="image\University_of_Peradeniya_crest.png" width="120" height="100"></td>
+	</tr>
+		    
+	<tr>
+      <td bgcolor="#FE5B91"> </td>
+      <td>2011</td>
+      <td>Information processing and Internet Communication & English course</td>
+      <td>Kekirawa English Academy, Sri Lanka</i></td>
+      <td><img src ="image\kekirawaenglish.png" width="130" height="100"></td>
+     </tr>
+	 
+	 <tr>
+      <td bgcolor="#C473D4"> </td>
+      <td>2020</td>
+      <td>IELTS certificate course</td>
+      <td>Kandy cambridge college, Sri Lanka.</i></td>
+      <td><img src ="image\cambridge.jpg" width="130" height="100"></td> 
+     </tr>
+   
+   
+     </table>
+     
+    
+<h3> My Gallery </h3>  
+
+<img src ="image\3J5A0904.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\3J5A0905.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\3J5A0909.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\3J5A9433.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\3J5A9497.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\4U0A0327 -.JPG" alt="Photo Gallery" width="150" height="150">
+<img src ="image\4U0A0337 copy.JPG" alt="Photo Gallery" width="150" height="150">
+<img src ="image\3_1471817359600321_4587748296727638780_o.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\FB_IMG_15986700253018458.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\FB_IMG_16025831386042363.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\image-486832235779e9ea5966f5d5f058206c7781a684f84cc6604121f41f8f750083-V.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\IMG_20180911_211348.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\IMG20180121140503.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA140705.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA210283.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA210292.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA210291.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA220010.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA220011.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA220032.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA230045.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\PA230108.JPG" alt="Photo Gallery" width="250" height="150">
+<img src ="image\Sight_2016_03_24_125136_682.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\Sight_2016_03_24_173115_479.jpg" alt="Photo Gallery" width="250" height="150">
+<img src ="image\Sight_2016_03_24_205644_035.jpg" alt="Photo Gallery" width="150" height="150">
+<img src ="image\Sight_2016_03_25_182220_852.jpg" alt="Photo Gallery" width="250" height="150">
+
+ 
+<h4> Contact Me </h4>
+   <ul>
+    <li> Email : <a href="mail.dinushika123456@gmail.com"> dinushikamail.com </a> </li>
+    <li> Mobile Number : +81 o8047032370 (Available in line, Whatsapp & Viber) </li>
+    <li> Current Address : 602-8494, Kamigyo-ward, Kyoto city,Teranouchi Dori,Senbon Higaashiiru, Shininokumahigashi-Cho 351, Chateu Wakakusa,Room No 211, Japan </li>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.8957822826246!2d135.74160846440688!3d35.03433703035021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107e513b0f3b1%3A0x8ffd72eccc1a0541!2s602-8494!5e0!3m2!1sen!2sjp!4v1652646744403!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </ul>
+  
+  <ul> 
+   <li> Past address : No 53/A, Gurugammanaya,Dehiattakandiya,Colombo, Sri Lanka </li>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15816.417062178582!2d81.03872881092974!3d7.671939011505216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae4b33d4694cd31%3A0xc42f5c92598e53a1!2sDehiattakandiya%2C%20Sri%20Lanka!5e0!3m2!1sen!2sjp!4v1652646927227!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5KYeKcLa_Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  </ul>
+  
+  
+</html>  
+  
+
+
+
+
+
+
+
+
